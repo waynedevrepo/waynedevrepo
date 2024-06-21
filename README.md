@@ -61,18 +61,14 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waynedevrepo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table><tr><td valign="top" width="50%">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=waynedevrepo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<br />
+</td><td valign="top" width="50%">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynedevrepo&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=waynedevrepo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="waynedevrepo" width=460 /></p>
-</div>
+</td></tr></table>
 
 [![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=waynedevrepo&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
